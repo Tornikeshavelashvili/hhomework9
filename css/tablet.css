@@ -1,0 +1,42 @@
+@media (max-width: 935px) {
+    header {
+        padding: 6px 67px;
+    }
+
+    .section1 {
+        padding: 115px 67px 116px;
+    }
+
+
+    .section2 {
+        width: 700px;
+        height: 477px;
+    }
+
+    .section2card_textbox {
+        width: 338px;
+        height: 189px;
+    }
+}
+
+@media (max-width: 851px){
+    .section_3{
+    flex-direction: column;
+    }
+
+.section3imagesbox{
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.section_3{
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.section3imagebox{
+    flex-direction: column;
+}
+
+}
